@@ -1,0 +1,21 @@
+{
+  "name": "ether",
+  "version": "1.0.0",
+  "description": "API for getting Ethereum prices and user transactions",
+  "main": "ether.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paritosh Singh",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^4.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "mongoose": "^6.6.1",
+    "node-cron": "^3.0.2"
+  }
+}
